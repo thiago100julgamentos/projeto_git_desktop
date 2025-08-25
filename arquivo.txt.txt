@@ -4,4 +4,3 @@ Alteração feita para testar sincronização com o GitHub.
 Linha adicionada pelo GitHub online.
 Linha adicionada no computador local.
 Linha adicionada no GitHub online.
-
