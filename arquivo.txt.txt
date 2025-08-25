@@ -1,5 +1,3 @@
 Meu primeiro arquivo versionado com GitHub Desktop
 Alteração feita para aprender commits.
 Alteração feita para testar sincronização com o GitHub.
-
-blz
